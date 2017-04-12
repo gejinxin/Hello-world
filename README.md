@@ -6,3 +6,9 @@ public void main(String args[]){
   system.out.println("Hello world!");
   system.out.println("Hello GitHub!");
 }
+
+public void main(String args[]){
+  system.out.println("Hello world!");
+  system.out.println("Hello GitHub!");
+}
+
